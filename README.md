@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development, cp and music.
 - 🌱 I’m currently exploring programming challenges to get my hands on with competitive programming.
 - 💞️ I’m looking to collaborate on freelance project, probonos.
-- 📫 You can reach me on yash-paliwal@outlook.com
+- 📫 You can reach me on paliwal.yash1412@gmail.com
 
 <!---
 yashhasgit/yashhasgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
